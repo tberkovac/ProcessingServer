@@ -1,0 +1,15 @@
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\bin\Debug\net6.0\ProcessingServer.BLL.deps.json
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\bin\Debug\net6.0\ProcessingServer.BLL.dll
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\bin\Debug\net6.0\ProcessingServer.BLL.pdb
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\bin\Debug\net6.0\ProcessingServer.DAL.dll
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\bin\Debug\net6.0\ProcessingServer.DAL.pdb
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ProcessingServer.BLL.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ProcessingServer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ProcessingServer.BLL.AssemblyInfoInputs.cache
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ProcessingServer.BLL.AssemblyInfo.cs
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ProcessingServer.BLL.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ProcessingServer.BLL.csproj.CopyComplete
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ProcessingServer.BLL.dll
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\refint\ProcessingServer.BLL.dll
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ProcessingServer.BLL.pdb
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.BLL\obj\Debug\net6.0\ref\ProcessingServer.BLL.dll

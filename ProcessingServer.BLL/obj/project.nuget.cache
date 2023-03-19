@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnBPUUI1s89+igALfBhi0fW5ye3CctGaQzcXWBCZlWpAs5e5WneGlpwW5Q+CXHm8U+xZJ6jYVIzY4nbRhFQ01Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarik\\source\\repos\\ProcessingServer\\ProcessingServer.BLL\\ProcessingServer.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarik\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\tarik\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\tarik\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\tarik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tarik\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\tarik\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\tarik\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

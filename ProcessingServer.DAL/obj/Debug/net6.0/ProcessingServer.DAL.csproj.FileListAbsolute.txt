@@ -1,0 +1,12 @@
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\bin\Debug\net6.0\ProcessingServer.DAL.deps.json
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\bin\Debug\net6.0\ProcessingServer.DAL.dll
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\bin\Debug\net6.0\ProcessingServer.DAL.pdb
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\ProcessingServer.DAL.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\ProcessingServer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\ProcessingServer.DAL.AssemblyInfoInputs.cache
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\ProcessingServer.DAL.AssemblyInfo.cs
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\ProcessingServer.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\ProcessingServer.DAL.dll
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\refint\ProcessingServer.DAL.dll
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\ProcessingServer.DAL.pdb
+C:\Users\tarik\source\repos\ProcessingServer\ProcessingServer.DAL\obj\Debug\net6.0\ref\ProcessingServer.DAL.dll
